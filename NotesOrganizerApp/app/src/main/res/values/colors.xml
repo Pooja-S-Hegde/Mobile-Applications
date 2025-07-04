@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Common Colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    
+    <!-- Light Theme Colors -->
+    <color name="light_primary">#6200EE</color>
+    <color name="light_primary_dark">#3700B3</color>
+    <color name="light_accent">#03DAC5</color>
+    <color name="light_background">#FFFFFF</color>
+    <color name="light_surface">#FFFFFF</color>
+    <color name="light_error">#B00020</color>
+    <color name="light_text_primary">#DE000000</color>
+    <color name="light_text_secondary">#99000000</color>
+    <color name="light_text_hint">#61000000</color>
+    <color name="light_card_background">#FFFFFF</color>
+    
+    <!-- Dark Theme Colors -->
+    <color name="dark_primary">#BB86FC</color>
+    <color name="dark_primary_dark">#000000</color>
+    <color name="dark_accent">#03DAC6</color>
+    <color name="dark_background">#121212</color>
+    <color name="dark_surface">#121212</color>
+    <color name="dark_error">#CF6679</color>
+    <color name="dark_text_primary">#DEFFFFFF</color>
+    <color name="dark_text_secondary">#99FFFFFF</color>
+    <color name="dark_text_hint">#61FFFFFF</color>
+    <color name="dark_card_background">#1E1E1E</color>
+
+    <!-- Note Colors -->
+    <color name="note_background_light">#FFFFFF</color>
+    <color name="note_background_dark">#1E1E1E</color>
+    <color name="note_text_light">#DE000000</color>
+    <color name="note_text_dark">#DEFFFFFF</color>
+</resources>
